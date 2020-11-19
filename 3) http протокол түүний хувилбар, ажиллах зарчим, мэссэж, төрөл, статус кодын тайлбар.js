@@ -39,7 +39,7 @@ server-ees client tal-d ugnu
 1XX => Huselt huleej awlaa
 2XX => Amjilttai bolson
 3XX => Redirect hiih utga
-4XX => Clinet taliin aldaa
+4XX => Client taliin aldaa
 5XX => Server taliin aldaa
 
 200 -> OK
