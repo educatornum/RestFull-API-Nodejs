@@ -3,7 +3,10 @@
 
 const http = require("http")
 const server = http.createServer((req,res)=>{
-    // console.log(req)
+    const { headers, url, method} = req;
+    console.log(`header ====>`, headers)
+    console.log(`url ====> ${url}`)
+    console.log(`method ====> ${method}`)
     // res.setHeader("content-type", "text/plan")
     res.write("<h1> Hello </h1>")
     res.end();
