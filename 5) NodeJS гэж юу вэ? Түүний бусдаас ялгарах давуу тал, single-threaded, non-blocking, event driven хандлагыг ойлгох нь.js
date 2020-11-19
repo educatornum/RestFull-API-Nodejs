@@ -21,5 +21,27 @@ NODEJS:
 
 single tread:
  ul blocklogdoh
- 
+
+1zereg 1 million huselt ez
+
+1 thread ashigladag tul code oo bolgoomjtoi bichih heregtei
+
+
+NODE JS APPS: 
+Hurdtai, urgujih bolomjtoi, uguduld suurilsan
+ymarch logic baihgui ued tohiromjtoi
+
+* rest API server
+* Youtube, Nextflex
+* realtime chat app
+* onlain game
+* e commerce
+* online meeting
+
+Tohiromjgui application
+
+* zurag hurwuuleh
+* video encode hiih
+* file shahah
+
 */
