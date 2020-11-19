@@ -1,0 +1,27 @@
+{
+    "name": "restfull-api-nodejs",
+    "version": "1.0.0",
+    "description": "Nodejs + ReactJS +MongoDB +Express",
+    "main": "2) Вэб хэрхэн ажилладаг вэ? POSTMAN ашиглан http мэссэжүүдийг харах.js",
+    "dependencies": {
+        "dateformat": "^4.0.0",
+        "request": "^2.88.2"
+    },
+    "devDependencies": {
+        "nodemon": "^2.0.6"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "nodemon server.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/educatornum/RestFull-API-Nodejs.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/educatornum/RestFull-API-Nodejs/issues"
+    },
+    "homepage": "https://github.com/educatornum/RestFull-API-Nodejs#readme"
+}
